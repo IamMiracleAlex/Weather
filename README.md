@@ -1,7 +1,7 @@
 # Weather
 A beautiful app that let's you know the current weather from thousands of locations around the world. The app uses the openWeatherMapAPI
 
-**To see this app live, visit:** https://weather-home.herokuapp.com  
+**To see this app live, visit:** https://Weather-home.herokuapp.com  
 
 **To run locally:**  
 >  mkdir weather  
